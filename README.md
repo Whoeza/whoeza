@@ -10,6 +10,7 @@ The idea is to start at 1️⃣ Frontend development, move on with 🎯 Backend 
 
 **I re-focused multiple times on different ideas and projects, until I decided:**
 ## Let's finish *one* project, before moving onto the next one
+Which brought me to my first and latest project, *Web Development*.
 ### Open to collabs
 <!--
 **Whoeza/whoeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
