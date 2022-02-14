@@ -6,7 +6,7 @@
 ## Past experiences
 ### I had fun coding GTA V mods in FiveM for 2 months, until my PC burned down to hell 🔥
 ### I started learning Python to learn Data Science
-### I re-focused multiple times on different ideas and projects, until I decided: let's finish **one** project before moving onto the next
+### I re-focused multiple times on different ideas and projects, until I decided: let's finish *one* project before moving onto the next
 ### I had fun speaking various programming languages
 <!--
 **Whoeza/whoeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
