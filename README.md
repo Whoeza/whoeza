@@ -9,7 +9,7 @@ The idea is to start at 1️⃣ Frontend development, move on with 🎯 Backend 
 **I started learning Python to learn Data Science**
 
 **I re-focused multiple times on different ideas and projects, until I decided:**
-### let's finish *one* project, before moving onto the next one
+## __Let's finish *one* project, before moving onto the next one__
 ### Let's collab
 <!--
 **Whoeza/whoeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
