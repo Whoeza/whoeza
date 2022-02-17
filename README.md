@@ -8,9 +8,9 @@
 * I had fun coding GTA V mods in FiveM for 2 months (until my PC burned down to hell 🔥)
 * I started learning Python to learn Data Science
 * I re-focused multiple times on various ideas and projects, until I decided:
-  * > ## *Let's finish* **one** *project, before moving onto the next one*
+  * > ### *Let's finish* **one** *project, before moving onto the next one*
  
-Which brought me to my first and latest project, *Web\* Development*.
+Which brought me to my first and latest project, [*Web\* Development*](https://whoeza.github.io/).
 ### ✉ Open for collabs!
 📝 Just invite me to your repository.
 
