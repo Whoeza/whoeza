@@ -15,9 +15,7 @@ Which brought me to my first and latest project, [*Web\* Development*](https://w
 📝 Just invite me to your repository.
 
 #### Companies I look up to:
-> Red Hat Linux
-
-> Valve Software
+Red Hat Linux & Valve Software
 <!--
 **Whoeza/whoeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
