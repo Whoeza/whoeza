@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I want to become a Software Engineer 👑💻**
+**I want to become a 💻 Software Engineer 👑**
 ## My personal roadmap
 * I'm currently learning 🌎 Web Development on freeCodeCamp
   * The idea is to start at 1️⃣ Frontend development
