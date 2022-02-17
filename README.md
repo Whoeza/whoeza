@@ -14,7 +14,7 @@
 **I re-focused multiple times on different ideas and projects, until I decided:**
 
 ### Let's finish *one* project, before moving onto the next one
-**Which brought me to my first and latest project, *Web Development*.**
+**Which brought me to my first and latest project, *Web\* Development*.**
 ### ✉ Open for collabs
 <!--
 **Whoeza/whoeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
