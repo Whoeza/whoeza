@@ -11,7 +11,7 @@
 
 **I started learning Python to learn Data Science**
 
-**I re-focused multiple times on different ideas and projects, until I decided:**
+**I re-focused multiple times on various ideas and projects, until I decided:**
 
 ### Let's finish *one* project, before moving onto the next one
 **Which brought me to my first and latest project, *Web\* Development*.**
