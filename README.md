@@ -5,8 +5,8 @@
   * move on with 🎯 Backend development
   * and finish up with the Web as a ☝ Full Stack Development
 ## Past experiences
-* I had fun coding GTA V mods in FiveM for 2 months (until my PC burned down to hell 🔥)
-* I started learning Python to learn Data Science
+* I had fun coding GTA V mods in FiveM for 2 months (until my PC burned down to hell 🔥) #lua
+* I started learning Python to learn Data Science #python
 * I re-focused multiple times on various ideas and projects, until I decided:
   * > ### *Let's finish* **one** *project, before moving onto the next one*
  
