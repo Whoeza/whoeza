@@ -10,7 +10,7 @@
 * I re-focused multiple times on various ideas and projects, until I decided:
   * > ### *Let's finish* **one** *project, before moving onto the next one*
  
-Which brought me to my first and latest project, [*Web\* Development*](https://whoeza.github.io/).
+Which brought me to [*Web\* Development*](https://whoeza.github.io/).
 ### ✉ Open* for collabs!
 📝 Just invite me to your repository.
 
