@@ -4,6 +4,10 @@
   * The idea is to start at 1️⃣ Frontend development
   * move on with 🎯 Backend development
   * and finish up with the Web as a ☝ Full Stack Developer
+## Interests*
+* Python, C++, Lua, Unity, C#, Lisp, Protobufs, JSON, Machine learning, Linux, Open source software
+* Software development, eXtreme Programming, Agile, Scrum
+* Getting hired as a developer and software engineer
 ## Past* experiences
 * I had fun coding GTA V mods in FiveM for 2 months (until my PC burned down to hell 🔥) #lua
 * I started learning Python to learn Data Science #python
@@ -15,7 +19,8 @@ Which brought me to [*Web\* Development*](https://whoeza.github.io/).
 📝 Just invite me to your repository.
 
 #### Companies* I look up to:
-Red Hat Linux & Valve Software
+* Valve Software
+* Red Hat Linux
 <!--
 **Whoeza/whoeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
