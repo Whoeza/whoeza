@@ -1,7 +1,7 @@
 **Hi there 👋 I want to show my talent and get hired as a Software\* Engineer 💻👑**
 
 ## My personal* roadmap
-* I'm currently learning 🌎 Web* Development on [freeCodeCamp](freecodecamp.org/)
+* I'm currently learning 🌎 Web* Development on [freeCodeCamp](https://freecodecamp.org/)
   * The idea is to start at 1️⃣ [Frontend development](https://github.com/Whoeza?tab=repositories&q&language=html)
   * move on with 🎯 Backend development
   * and finish up with the Web as a ☝ Full Stack Developer
@@ -22,8 +22,8 @@
 📝 Just invite me to your repository by @'ing me.
 
 ## Companies* I look up to:
-* [Valve Software](valvesoftware.com/)
-* [Red Hat Linux](redhat.com/)
+* [Valve Software](https://valvesoftware.com/)
+* [Red Hat Linux](https://redhat.com/)
 <!--
 **Whoeza/whoeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
