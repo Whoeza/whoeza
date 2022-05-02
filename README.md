@@ -1,4 +1,4 @@
-**Hi there 👋 I want to become a Software\* Engineer 💻👑**
+**Hi there 👋 I'm here because I want to show my talent and get hired as a Software\* Engineer 💻👑**
 
 ## My personal* roadmap
 * I'm currently learning 🌎 Web* Development on freeCodeCamp
