@@ -7,7 +7,7 @@
   * and finish up with the Web as a ☝ Full Stack Developer
 
 ## Interests*
-* [Python](https://github.com/Whoeza/json2database), C++, Lua, Unity, C#, Lisp, Protobufs, JSON, Machine learning, Linux, Open source software
+* [Python](https://github.com/search?q=user%3AWhoeza+python), C++, [Lua](https://github.com/search?q=user%3AWhoeza+lua), Unity, C#, Lisp, Protobufs, JSON, Machine learning, Linux, Open source software
 * Software development, eXtreme Programming, Agile, Scrum
 * Getting hired as a developer and software engineer
 
