@@ -13,7 +13,7 @@
 
 ## Past* experiences
 * I had fun coding GTA V mods in FiveM for 2 months (until my PC burned down to hell 🔥) #lua
-* I started learning Python to learn Data Science #python
+* I started learning Python to learn Data Science and now I use it for any kind of script
 * I re-focused multiple times on various ideas and projects, until I decided:
   * > ### *Let's finish* **one** *project, before moving onto the next one*
   * Which brought me to [*Web\* Development*](https://whoeza.github.io/).
