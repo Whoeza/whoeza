@@ -1,24 +1,27 @@
 **Hi there 👋 I want to become a Software\* Engineer 💻👑**
+
 ## My personal* roadmap
 * I'm currently learning 🌎 Web* Development on freeCodeCamp
   * The idea is to start at 1️⃣ Frontend development
   * move on with 🎯 Backend development
   * and finish up with the Web as a ☝ Full Stack Developer
+
 ## Interests*
-* Python, C++, Lua, Unity, C#, Lisp, Protobufs, JSON, Machine learning, Linux, Open source software
+* [Python](https://github.com/Whoeza/json2database), C++, Lua, Unity, C#, Lisp, Protobufs, JSON, Machine learning, Linux, Open source software
 * Software development, eXtreme Programming, Agile, Scrum
 * Getting hired as a developer and software engineer
+
 ## Past* experiences
 * I had fun coding GTA V mods in FiveM for 2 months (until my PC burned down to hell 🔥) #lua
 * I started learning Python to learn Data Science #python
 * I re-focused multiple times on various ideas and projects, until I decided:
   * > ### *Let's finish* **one** *project, before moving onto the next one*
- 
-Which brought me to [*Web\* Development*](https://whoeza.github.io/).
-### ✉ Open* for collabs!
-📝 Just invite me to your repository.
+  * Which brought me to [*Web\* Development*](https://whoeza.github.io/).
 
-#### Companies* I look up to:
+## ✉ Open* for collabs!
+📝 Just invite me to your repository by @'ing me.
+
+## Companies* I look up to:
 * Valve Software
 * Red Hat Linux
 <!--
