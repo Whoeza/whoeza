@@ -22,8 +22,8 @@
 📝 Just invite me to your repository by @'ing me.
 
 ## Companies* I look up to:
-* Valve Software
-* Red Hat Linux
+* [Valve Software](valvesoftware.com/)
+* [Red Hat Linux](redhat.com/)
 <!--
 **Whoeza/whoeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
