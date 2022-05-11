@@ -19,7 +19,7 @@
 * **Current work**: I re-focused multiple times on several projects, until I decided:
   * > ### *Let's finish* **one** *project, before moving onto the next one*
   * Which brought me to [*Web\* Development*](https://whoeza.github.io/). It's a project to learn Front-end Development.
-    * I'm learning JavaScript for it.
+    * I'm learning [JavaScript](https://github.com/Whoeza?tab=repositories&language=javascript) for it.
 
 ## ✉ Open* for collabs and bugfixes!
 📝 Just invite me to your repository by @'ing me. I can help fix bugs in **many** languages. 👀 🤝
