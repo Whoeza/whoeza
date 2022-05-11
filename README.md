@@ -7,7 +7,7 @@
   * and finish up with the Web as a ☝ Full Stack Developer
 
 ## Interests*
-* [Python](https://github.com/Whoeza?tab=repositories&q&language=python), C++, [Lua](https://github.com/Whoeza?tab=repositories&q&language=lua), [Unity](https://github.com/search?q=user%3AWhoeza+unity), C#, Lisp, [Protobufs](https://github.com/Whoeza/protobufs-helloworld), [JSON](https://github.com/Whoeza?tab=repositories&q=json&type=&language=&sort=), Machine learning, Linux, Open source software, [HTML](https://github.com/Whoeza?tab=repositories&q&language=html)
+* [Python](https://github.com/Whoeza?tab=repositories&q&language=python), C++, [Lua](https://github.com/Whoeza?tab=repositories&q&language=lua), [Unity](https://github.com/search?q=user%3AWhoeza+unity), C#, Lisp, [Protobufs](https://github.com/Whoeza/protobufs-helloworld), [JSON](https://github.com/Whoeza?tab=repositories&q=json&type=&language=&sort=), Machine learning, Linux, Open source software, [HTML](https://github.com/Whoeza?tab=repositories&q&language=html), [JavaScript](https://github.com/Whoeza?tab=repositories&language=javascript)
 * Software development, eXtreme Programming, Agile, Scrum
 * Getting hired for my talent as a developer and software engineer
 
@@ -27,7 +27,7 @@
 ## Companies* I look up to:
 * [Valve Software](https://valvesoftware.com/)
 * [Red Hat Linux](https://redhat.com/)
-* Building my own company 😉
+* my own company 😉
 <!--
 **Whoeza/whoeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
