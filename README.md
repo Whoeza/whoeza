@@ -12,8 +12,6 @@
 * Getting hired for my talent as a developer and software engineer
 
 ## Past* experiences
-* I attended Information Engineering university courses.
-* I learned **C++**, **Java** and **Common Lisp** from textbooks. 🙄
 * I had fun coding GTA V mods in FiveM for 2 months (until my PC burned down to hell 🔥) in **Lua**
 * I began learning **Python** as a start with Data Science. I sticked to Python for its clean coding style and now I use it for everyday programming.
 * **Current work**: I re-focused multiple times on several projects, until I decided:
