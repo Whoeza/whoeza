@@ -18,8 +18,8 @@
   * > ### *Let's finish* **one** *project, before moving onto the next one*
   * Which brought me to [*Web\* Development*](https://whoeza.github.io/).
 
-## ✉ Open* for collabs!
-📝 Just invite me to your repository by @'ing me.
+## ✉ Open* for collabs and bugfixes!
+📝 Just invite me to your repository by @'ing me. I can help fix bugs in **many** languages
 
 ## Companies* I look up to:
 * [Valve Software](https://valvesoftware.com/)
