@@ -3,8 +3,9 @@
 ## My personal* roadmap
 * I'm currently learning 🌎 Web* Development on [freeCodeCamp](https://freecodecamp.org/)
   * The idea is to start at 1️⃣ [Frontend development](https://github.com/Whoeza?tab=repositories&q&language=html)
-  * move on with 🎯 Backend development
-  * and finish up with the Web as a ☝ Full Stack Developer
+  * move onto 🎯 Backend development
+  * and end up as a ☝ Full Stack Developer
+  * 🤜 before finishing up as a Software* Engineer
 
 ## Interests*
 * [Python](https://github.com/Whoeza?tab=repositories&q&language=python), C++, [Lua](https://github.com/Whoeza?tab=repositories&q&language=lua), [Unity](https://github.com/search?q=user%3AWhoeza+unity), C#, Lisp, [Protobufs](https://github.com/Whoeza/protobufs-helloworld), [JSON](https://github.com/Whoeza?tab=repositories&q=json&type=&language=&sort=), Machine learning, Linux, Open source software, HTML, JavaScript
