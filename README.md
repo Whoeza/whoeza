@@ -7,6 +7,8 @@
   * and end up as a ☝ Full Stack Developer
   * 🤜 before finishing up as a Software* Engineer
 
+This is my "home page" until I set up my personal website at [whoeza.github.io](https://whoeza.github.io)
+
 ## Interests*
 * [Python](https://github.com/Whoeza?tab=repositories&q&language=python), C++, [Lua](https://github.com/Whoeza?tab=repositories&q&language=lua), [Unity](https://github.com/search?q=user%3AWhoeza+unity), C#, Lisp, [Protobufs](https://github.com/Whoeza/protobufs-helloworld), [JSON](https://github.com/Whoeza?tab=repositories&q=json&type=&language=&sort=), Machine learning, Linux, Open source software, HTML, JavaScript
 * Software development, eXtreme Programming, Agile, Scrum
