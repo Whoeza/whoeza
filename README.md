@@ -1,4 +1,4 @@
-**Hi there 👋 I want to show my talent and get hired as a Software\* Engineer 💻👑**
+**Hi there 👋 I want to show my talent and get [sponsored](https://github.com/sponsors/Whoeza) as a Software\* Engineer 💻👑**
 
 ## My personal* roadmap
 * I'm currently learning 🌎 Web* Development on [freeCodeCamp](https://freecodecamp.org/)
