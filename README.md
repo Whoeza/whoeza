@@ -2,7 +2,7 @@
 
 ## My personal* roadmap
 * I'm currently learning 🌎 Web* Development on [freeCodeCamp](https://freecodecamp.org/)
-  * The idea is to start at 1️⃣ [Front-end development](https://github.com/Whoeza?tab=repositories&q&language=html)
+  * The idea is to start with 1️⃣ [Front-end development](https://github.com/Whoeza?tab=repositories&q&language=html)
   * move onto 🎯 Back-end development
   * and end up as a ☝ Full Stack Developer
   * 🤜 before finishing up as a Software* Engineer
