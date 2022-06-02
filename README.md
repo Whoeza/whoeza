@@ -3,7 +3,7 @@
 ## My personal* roadmap
 * I'm currently learning 🌎 Web* Development on [freeCodeCamp](https://freecodecamp.org/)
   * The idea is to start with 1️⃣ [Front-end development](https://github.com/Whoeza?tab=repositories&q&language=html)
-    * On the way, I made a small package in Python call **html-and-py**, on [GitHub](https://github.com/Whoeza/html-and-py) and [PyPI](https://pypi.org/project/html-and-py/)
+    * On the way, I made a small package in Python call **[html-and-py]**, on [GitHub](https://github.com/Whoeza/html-and-py) and [PyPI](https://pypi.org/project/html-and-py/)
   * move onto 🎯 Back-end development
   * and end up as a ☝ Full Stack Developer
   * 🤜 before finishing up as a Software* Engineer
