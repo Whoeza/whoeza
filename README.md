@@ -4,7 +4,7 @@
 
 You can buy my coffees and university books here: [sponsor Whoeza](https://github.com/sponsors/Whoeza)
 
-I'm currently learning 🌎 Web\* Development on [freeCodeCamp](https://freecodecamp.org/). The idea is to become a front-end developer while I finish my studies. On the side, I'm coding in Python and publishing the occasional package on [PyPI](https://pypi.org/project/). Then, I want to learn back-end development and combine the two to become a full-stack developer. Ultimate goal: being hired as a Software Engineer. 🎯 This is my homepage, until I finish setting up my GitHub Pages website. ;) [whoeza.github.io](https://whoeza.github.io)
+I'm currently learning 🌎 Web\* Development on [freeCodeCamp](https://freecodecamp.org/). The idea is to become a front-end developer while I finish my studies. On the side, I'm coding in Python and publishing the occasional package on PyPI ([www.pypi.org](https://pypi.org/project/)). Then, I want to learn back-end development and combine the two to become a full-stack developer. Ultimate goal: being hired as a Software Engineer. 🎯 This is my homepage, until I finish setting up my GitHub Pages website.  [whoeza.github.io](https://whoeza.github.io)
 
 ### Interests*
 #### Languages
