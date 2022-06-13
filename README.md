@@ -1,6 +1,6 @@
 **Hello stranger! 👋**
 
-**I want to be discovered and show you my talent as a programmer and aspiring Software\* Engineer 💻👑**
+**I want to be discovered and show you my talent as a programmer and aspiring 💻Software ⭐Engineer⭐💻**
 
 You can buy my coffees and university books here: [sponsor Whoeza](https://github.com/sponsors/Whoeza)
 
