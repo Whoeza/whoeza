@@ -8,7 +8,7 @@ I'm currently learning 🌎 Web\* Development on [freeCodeCamp](https://freecode
 
 ### Interests*
 #### Languages
-* **(actively studying it)** [Python](https://github.com/Whoeza?tab=repositories&q&language=python), 
+* **(actively using it)** [Python](https://github.com/Whoeza?tab=repositories&q&language=python), 
 * C++, 
 * C#, 
 * HTML, 
