@@ -9,10 +9,10 @@ I'm currently learning 🌎 Web\* Development on [freeCodeCamp](https://freecode
 ### Interests
 #### Languages
 * **(actively using it)** [Python](https://github.com/Whoeza?tab=repositories&q&language=python), 
+* **(actively using it)** JavaScript
 * C++, 
 * C#, 
 * HTML, 
-* JavaScript
 * [JSON](https://github.com/Whoeza?tab=repositories&q=json&type=&language=&sort=), 
 * Lisp, 
 * [Lua](https://github.com/Whoeza?tab=repositories&q&language=lua), 
