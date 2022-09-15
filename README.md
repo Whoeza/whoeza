@@ -1,4 +1,4 @@
-**Hello programmers! 👋**
+**Hello coders! 👋**
 
 I want to collaborate with a real team, in a real Scrum environment, with other programmers, developers, engineers.
 
