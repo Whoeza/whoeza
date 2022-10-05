@@ -6,7 +6,8 @@ I like music, videogames and open source software.
 
 ### Languages
 * [Python](https://github.com/Whoeza?tab=repositories&q&language=python)
-* Lisp
+* Common Lisp (soon!)
+* C (soon!)
 * [Lua](https://github.com/Whoeza?tab=repositories&q&language=lua)
 * JavaScript
 * C++
