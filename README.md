@@ -8,11 +8,13 @@ I like music, videogames and open source software.
 
 ### Languages
 * [Python](https://github.com/Whoeza?tab=repositories&q&language=python)
-* Common Lisp (soon!)
-* C (soon!)
-* [Lua](https://github.com/Whoeza?tab=repositories&q&language=lua)
 * JavaScript
-* C++
+* Java
+* [Lua](https://github.com/Whoeza?tab=repositories&q&language=lua)
+* SQL
+* Common Lisp
+* C
 * C#
+* C++
 
 My website is work in progress... Be patient! (: [whoeza.github.io](https://whoeza.github.io)
