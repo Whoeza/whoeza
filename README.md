@@ -16,5 +16,7 @@ I like music, videogames and open source software.
 * C
 * C#
 * C++
+* Perl
+* PHP
 
 My website is work in progress... Be patient! (: [whoeza.github.io](https://whoeza.github.io)
