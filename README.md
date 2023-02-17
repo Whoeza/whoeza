@@ -5,17 +5,4 @@ If you have a small repository that I can help maintain, or a small feature that
 
 I like music, videogames and open source software.
 
-### Languages
-* [Python](https://github.com/Whoeza?tab=repositories&q&language=python)
-* JavaScript
-* Java
-* [Lua](https://github.com/Whoeza?tab=repositories&q&language=lua)
-* SQL
-* Common Lisp
-* C
-* C#
-* C++
-* Perl
-* PHP
-
 One day I'll make a website... Be patient! (: [whoeza.github.io](https://whoeza.github.io)
