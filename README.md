@@ -12,4 +12,4 @@ I like food, music, open source software and videogames.
 Website under construction! Be patient... (: [whoeza.github.io](https://whoeza.github.io)
 
 ## Sponsoring
-I could not believe the day I had my first sponsor here on GitHub. [github.com/sponsors/Whoeza](https://github.com/sponsors/Whoeza/)
+I could not believe the day I had my first sponsor here on GitHub! Here's my page: [github.com/sponsors/Whoeza](https://github.com/sponsors/Whoeza/)
