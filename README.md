@@ -3,8 +3,8 @@
 Thank you:
 - [@N-litened](https://github.com/N-litened)
 
-**Special thanks to:
-- [@NicknameAlwaysTaken](https://github.com/NicknameAlwaystaken) for sharing the idea about GitHub sponsors.**
+Special thanks to:
+- [@NicknameAlwaysTaken](https://github.com/NicknameAlwaystaken) for sharing the idea about GitHub sponsors.
 
 I could not believe the day I had my first sponsor here on GitHub! Here's my page: [github.com/sponsors/Whoeza](https://github.com/sponsors/Whoeza/)
 
